@@ -1,0 +1,30 @@
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\bin\Debug\TrabalhoMP3.exe.config
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\bin\Debug\TrabalhoMP3.exe
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\bin\Debug\TrabalhoMP3.pdb
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csproj.ResolveComReference.cache
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.Form1.resources
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.Properties.Resources.resources
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.exe
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.pdb
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\bin\Debug\TrabalhoMP3.exe.config
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\bin\Debug\TrabalhoMP3.exe
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\bin\Debug\TrabalhoMP3.pdb
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csproj.ResolveComReference.cache
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.Form1.resources
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.Properties.Resources.resources
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csproj.GenerateResource.cache
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.exe
+C:\Users\Paulo Vitor\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoMp3-master\TrabalhoMP3\TrabalhoMP3\obj\Debug\TrabalhoMP3.pdb
